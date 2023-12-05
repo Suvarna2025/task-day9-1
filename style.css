@@ -3,7 +3,7 @@
     margin:0;
     padding:0;
     font-family: 'Roboto Mono', monospace;
-    background-color: cornsilk
+    background-color: papayawhip;
 
 
 }
@@ -81,7 +81,7 @@ button#AC:hover
     color:white;
 }
 button#result{
-    background-color: rgb(252, 155, 169);
+    
 }
 span.hide 
 {
